@@ -8,6 +8,11 @@
 
 :family: **La mamá más feliz del mundo!!!**
 
+### :zap: Actividad reciente
+<¡--START_SECTION:activity-->
+
+<¡--END_SECTION:activity-->
+
 ### Vías de contacto
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dianagomezh29-web/dianagomezh29-web)
