@@ -9,8 +9,8 @@
 :family: **La mamá más feliz del mundo!!!**
 
 ### :zap: Actividad reciente
-<¡--RECENT_ACTIVITY:start-->
-<¡--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### Vías de contacto
 
